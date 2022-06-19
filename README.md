@@ -1,2 +1,3 @@
 # ARV-Varuna_Hackathon
-ARV_Hackathon
+
+The final model come from 1DCNN file.
